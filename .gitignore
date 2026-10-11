@@ -1,2 +1,37 @@
+# Arquivos compilados do Java
+*.class
+*.jar
+*.war
+*.ear
+*.nar
 
-/bin/
+# Pastas de saída/build (Eclipse, Maven, Gradle)
+bin/
+target/
+build/
+.gradle/
+
+# Metadados e cache do Eclipse IDE
+.metadata/
+.recommenders/
+.tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.factorypath
+
+# Configurações do projeto Eclipse 
+# (Recomendado ignorar para evitar conflitos quando outros devs usam IntelliJ/VS Code)
+.classpath
+.project
+.settings/
+
+# Arquivos de log
+*.log
+
+# Arquivos gerados pelo Sistema Operacional
+.DS_Store
+Thumbs.db
+desktop.ini
