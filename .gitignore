@@ -1,3 +1,4 @@
+
 # Arquivos compilados do Java
 *.class
 *.jar
@@ -22,8 +23,7 @@ build/
 local.properties
 .factorypath
 
-# Configurações do projeto Eclipse 
-# (Recomendado ignorar para evitar conflitos quando outros devs usam IntelliJ/VS Code)
+# Configurações do projeto Eclipse
 .classpath
 .project
 .settings/
